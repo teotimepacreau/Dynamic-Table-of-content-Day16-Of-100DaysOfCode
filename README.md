@@ -1,5 +1,5 @@
 # Dynamically generated Table Of Content
-![Popover API and Anchor Positioning demo](https://github.com/teotimepacreau/Popover-API-and-Anchor-Positioning-Day15-of-100DaysOfCode/blob/main/Anchor_CSS_Positioning_and_Popover_API_AdobeExpress_AdobeExpress.gif)
+![Dynamically generated Table Of Content](https://github.com/teotimepacreau/Dynamic-Table-of-content-Day16-Of-100DaysOfCode/blob/main/TableOfContent.gif)
 
 # Project goals
 - Build a dynamic TOC by retrieving h2 ID's and then set anchor link **(innerHTML, textContent, Template Literals)**
